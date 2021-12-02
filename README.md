@@ -10,8 +10,16 @@
 - [Contributing](#contributing)
 
 ## Macropad Guides
-- [Getting Started with the Adafruit Macropad](https://learn.adafruit.com/adafruit-macropad-rp2040)
-- [Programming Macropad Hotkeys](https://learn.adafruit.com/macropad-hotkeys)
+- [Getting Started with the Adafruit Macropad](https://learn.adafruit.com/adafruit-macropad-rp2040) by Kattni Rembor
+- [Programming Macropad Hotkeys](https://learn.adafruit.com/macropad-hotkeys) by Phillip Burgess
+- [Using the Macropad for 2 Factor Authentication](https://learn.adafruit.com/macropad-2fa-totp-authentication-friend) by Carter Nelson
+- [Dragon Drop: a CircuitPython Game for the Macropad](https://learn.adafruit.com/dragon-drop-a-circuitpython-game-for-macropad) by Phillip Burgess
+- [Control Home Assistant with the Macropad](https://learn.adafruit.com/macropad-remote-procedure-calls-over-usb-to-control-home-assistant) by Melissa Leblanc-Williams
+- [Ableton Live MacroPad Launcher](https://learn.adafruit.com/ableton-live-macropad-launcher) - by John Park
+- [Minecraft Turbopad](https://learn.adafruit.com/minecraft-turbopad) by John Park
+- [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
+
+
 
 ## Applications
 
