@@ -33,7 +33,7 @@
 - [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
 
 ## Applications
-[METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
+- [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
 - [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) by funkfinger
 - [MIDI Launchgrid](https://github.com/zoul0813/adafruit-launchgrid) by zoul0813
 - [Open Broadcaster Software (OBS](https://github.com/djotaku/MacroPad_rp2040_hotkeys)) by djotaku
