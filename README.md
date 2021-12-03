@@ -98,6 +98,10 @@ Thank you for contributing!
 The workflow is similar to the one explained in detail here for CircuitPython: [Adafruit : Contribute to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview).
 
 ### Contribution Workflow Overview
+You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) or send a pull request to add your MacroPad creation to the awesome-list.
+
+If you would like to submit a pull request: 
+
 1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) on GitHub.
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
