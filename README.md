@@ -21,8 +21,6 @@
 - [Minecraft Turbopad](https://learn.adafruit.com/minecraft-turbopad) by John Park
 - [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
 
-
-
 ## Applications
 [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
 - [HP35 Calculator](https://github.com/funkfinger/adafruit-macropad-hp-35-calc) by funkfinger
@@ -35,11 +33,10 @@
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
 
 ## Games
--[https://github.com/coryflucas/macro-whack](Macro Whack, a whack-a-mole style game for the Macropad) by Cory Flucas
+- [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the Macropad) by Cory Flucas
 - [Tic-Tac-Toe](https://github.com/robotastic/macropad-tic-tac-toe) by robotastic
 - [Game of Life](https://github.com/stelly-dev/game_of_life_adafruit_macropad) by stelly-dev
 - [BrainMAX](https://github.com/omixen/macropad-math-game) by omixen, a math game.
-
 
 ## Macros
 - [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/Macropad_Hotkeys) by deckerego
@@ -64,15 +61,13 @@
 - [Adafruit Macropad LCD Wedge](https://www.thingiverse.com/thing:4947602) by srtnate.  
 - [3Dconnexion CAD Extension Space Mouse](https://www.thingiverse.com/thing:4928292) by nmsr1196
 - [Merlin case for Adafruit Macropad](https://www.thingiverse.com/thing:5118991) by ktanner
- 
-## Contributing
 
+## Contributing
 Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome CircuitPython.
 
 The workflow is explained in detail here: [Adafruit : Contribute to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview).
 
 ### Contribution Workflow Overview
-
 1. Fork [this repository](https://github.com/prcutler/awesome-macropad) on GitHub.
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
@@ -85,7 +80,6 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 1. Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
 ## License & Trademarks
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
