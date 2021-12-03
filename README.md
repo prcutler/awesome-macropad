@@ -1,4 +1,9 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 
 > A curated list of awesome applications, macros, 3d printed cases, guides, and more for the [Adafruit CircuitPython rp2040 Macropad](https://www.adafruit.com/product/5100).
 
@@ -63,25 +68,38 @@
 - [Merlin case for Adafruit Macropad](https://www.thingiverse.com/thing:5118991) by ktanner
 
 ## Contributing
-Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome CircuitPython.
+Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome Macropad.
 
-The workflow is explained in detail here: [Adafruit : Contribute to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview).
+Imposter syndrome disclaimer: I want your help. No really, I do.
+
+There might be a little voice inside that tells you you're not ready; that you need to do one more tutorial, or learn another framework, or write a few more blog posts before you can help me with this project.
+
+I assure you, that's not the case.
+
+The contribution guidelines below outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.
+
+Thank you for contributing!
+
+The workflow is similar to the one explained in detail here for CircuitPython: [Adafruit : Contribute to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview).
 
 ### Contribution Workflow Overview
 1. Fork [this repository](https://github.com/prcutler/awesome-macropad) on GitHub.
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
 1. Fetch the remote.
-1. Merge adafruit main.
+1. Merge main.
 1. Create a branch.
 1. Make a change.
 1. Commit and push to your repo.
 1. Create a pull request on the official repo.
 1. Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
+It's easier than it looks!  Have questions or need help?  You can [find me on the Adafruit Discord](https://discord.com/invite/5FBsBHU) as *prcutler*.  You can also find me on Twitter as *@prcutler*  - feel free to ask me for help, I'm more than happy to help.
+
 ## License & Trademarks
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last updated: December 2, 2021
+Last updated: December 3, 2021
