@@ -8,6 +8,7 @@
 - [Applications](#applications)
 - [Games](#games)
 - [3D Printed Cases](#3d-printed-cases)
+- [3D Printed Keycaps](#3d-printed-keycaps)
 - [Contributing](#contributing)
 
 ## Macropad Guides
@@ -47,15 +48,23 @@
 - [Final Fantasy XIV](https://github.com/Radical-Dreamr/adafruit_macropad_ffxiv) by Radical Dreamr
 - [Generic Windows commands and KiCad](https://github.com/AlpenglowIndustries/Adafruit_MacroPad_Hotkeys) by AlpenglowIndustries
 
-
 ## Other
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MACROPAD) by mp-extras
 
-
 ## 3D Printed Cases
+- [Macropad RP2040 Case](https://www.thingiverse.com/thing:4910369) by Adafruit
+- [Adafruit Macropad Case](https://www.thingiverse.com/thing:4910369) for square keys by nlapenn.
 
-
-
+## 3d Printed and Other Keycaps
+- [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
+- [Macropad Braille Keycaps](https://www.thingiverse.com/thing:4913712) by Adafruit
+- [Adafruit Macropad Keycaps](https://www.thingiverse.com/thing:4933949) by jepler, featuring a keycap made of a single piece that allows the LEDs to shine through.
+- [Adafruit Macropad Stand](https://www.thingiverse.com/thing:4900504) by Nyghtpoison
+- [Macropad RP2040 Snap Together Case](https://www.thingiverse.com/thing:4935552) by obe
+- [Adafruit Macropad LCD Wedge](https://www.thingiverse.com/thing:4947602) by srtnate.  
+- [3Dconnexion CAD Extension Space Mouse](https://www.thingiverse.com/thing:4928292) by nmsr1196
+- [Merlin case for Adafruit Macropad](https://www.thingiverse.com/thing:5118991) by ktanner
+ 
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome CircuitPython.
