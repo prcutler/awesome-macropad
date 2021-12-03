@@ -5,11 +5,11 @@
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
-> A curated list of awesome applications, macros, 3d printed cases, guides, and more for the [Adafruit CircuitPython rp2040 Macropad](https://www.adafruit.com/product/5100).
+> A curated list of awesome applications, macros, 3d printed cases, guides, and more for the [Adafruit CircuitPython rp2040 MacroPad](https://www.adafruit.com/product/5100).
 
 ## Contents
 - [Marcopad Hardware](#marcopad-hardware)
-- [Macropad Guides](#macropad)
+- [MacroPad Guides](#MacroPad)
 - [Macros](#macros)
 - [Applications](#applications)
 - [Games](#games)
@@ -17,64 +17,73 @@
 - [3D Printed Keycaps](#3d-printed-keycaps)
 - [Contributing](#contributing)
 
-## Macropad Hardware
-- [Macropad Hardware on Adafruit.com](https://www.adafruit.com/?q=macropad&sort=BestMatch)
+## MacroPad Hardware
+- [MacroPad Hardware on Adafruit.com](https://www.adafruit.com/?q=MacroPad&sort=BestMatch)
 - [Stemma QT add-on boards from Adafruit ](https://www.adafruit.com/?q=stemma+qt&sort=BestMatch)
 - [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
 
-## Macropad Guides
-- [Getting Started with the Adafruit Macropad](https://learn.adafruit.com/adafruit-macropad-rp2040) by Kattni Rembor
-- [Programming Macropad Hotkeys](https://learn.adafruit.com/macropad-hotkeys) by Phillip Burgess
-- [Using the Macropad for 2 Factor Authentication](https://learn.adafruit.com/macropad-2fa-totp-authentication-friend) by Carter Nelson
-- [Dragon Drop: a CircuitPython Game for the Macropad](https://learn.adafruit.com/dragon-drop-a-circuitpython-game-for-macropad) by Phillip Burgess
-- [Control Home Assistant with the Macropad](https://learn.adafruit.com/macropad-remote-procedure-calls-over-usb-to-control-home-assistant) by Melissa Leblanc-Williams
-- [Ableton Live MacroPad Launcher](https://learn.adafruit.com/ableton-live-macropad-launcher) - by John Park
+## MacroPad Guides
+- [Getting Started with the Adafruit MacroPad](https://learn.adafruit.com/adafruit-MacroPad-rp2040) by Kattni Rembor
+- [Programming MacroPad Hotkeys](https://learn.adafruit.com/MacroPad-hotkeys) by Phillip Burgess
+- [Using the MacroPad for 2 Factor Authentication](https://learn.adafruit.com/MacroPad-2fa-totp-authentication-friend) by Carter Nelson
+- [Dragon Drop: a CircuitPython Game for the MacroPad](https://learn.adafruit.com/dragon-drop-a-circuitpython-game-for-MacroPad) by Phillip Burgess
+- [Control Home Assistant with the MacroPad](https://learn.adafruit.com/MacroPad-remote-procedure-calls-over-usb-to-control-home-assistant) by Melissa Leblanc-Williams
+- [Ableton Live MacroPad Launcher](https://learn.adafruit.com/ableton-live-MacroPad-launcher) - by John Park
 - [Minecraft Turbopad](https://learn.adafruit.com/minecraft-turbopad) by John Park
 - [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
 
 ## Applications
 [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
-- [HP35 Calculator](https://github.com/funkfinger/adafruit-macropad-hp-35-calc) by funkfinger
+- [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) by funkfinger
 - [MIDI Launchgrid](https://github.com/zoul0813/adafruit-launchgrid) by zoul0813
-- [Open Broadcaster Software (OBS](https://github.com/djotaku/macropad_rp2040_hotkeys)) by djotaku
+- [Open Broadcaster Software (OBS](https://github.com/djotaku/MacroPad_rp2040_hotkeys)) by djotaku
 - [BeePad](https://github.com/trickeydan/beepad) by trickeydan
-- [App Pad](https://github.com/kbaskett248/adafruit_macropad) by kbaskett248 which supports keystrokes for different operating systems.
-- [Macropad-Sequencer](https://github.com/analogsketchbook/Macropad-Sequencer) by analogsketchbook, an 8-step MIDI sequencer.\
-- [Multiple Timers](https://github.com/alpiepho/macropad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
+- [App Pad](https://github.com/kbaskett248/adafruit_MacroPad) by kbaskett248 which supports keystrokes for different operating systems.
+- [MacroPad-Sequencer](https://github.com/analogsketchbook/MacroPad-Sequencer) by analogsketchbook, an 8-step MIDI sequencer.
+- [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
 
 ## Games
-- [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the Macropad) by Cory Flucas
-- [Tic-Tac-Toe](https://github.com/robotastic/macropad-tic-tac-toe) by robotastic
-- [Game of Life](https://github.com/stelly-dev/game_of_life_adafruit_macropad) by stelly-dev
-- [BrainMAX](https://github.com/omixen/macropad-math-game) by omixen, a math game.
+- [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Flucas
+- [Tic-Tac-Toe](https://github.com/robotastic/MacroPad-tic-tac-toe) by robotastic
+- [Game of Life](https://github.com/stelly-dev/game_of_life_adafruit_MacroPad) by stelly-dev
+- [BrainMAX](https://github.com/omixen/MacroPad-math-game) by omixen, a math game.
 
 ## Macros
-- [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/Macropad_Hotkeys) by deckerego
-- [Vim Macros](https://github.com/CristinaSolana/adafruit-macropad-vim-macros) by Cristina Solana
+- [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) by deckerego
+- [Vim Macros](https://github.com/CristinaSolana/adafruit-MacroPad-vim-macros) by Cristina Solana
 - [Microsoft Teams, YouTube, Number Pad and Zoom](https://github.com/de-mon/ADA-MacroPad) by de-mon (Tested on Windows)
-- [Final Fantasy XIV](https://github.com/Radical-Dreamr/adafruit_macropad_ffxiv) by Radical Dreamr
+- [Final Fantasy XIV](https://github.com/Radical-Dreamr/adafruit_MacroPad_ffxiv) by Radical Dreamr
 - [Generic Windows commands and KiCad](https://github.com/AlpenglowIndustries/Adafruit_MacroPad_Hotkeys) by AlpenglowIndustries
 
 ## Other
-- [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MACROPAD) by mp-extras
+- [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
 
 ## 3D Printed Cases
-- [Macropad RP2040 Case](https://www.thingiverse.com/thing:4910369) by Adafruit
-- [Adafruit Macropad Case](https://www.thingiverse.com/thing:4910369) for square keys by nlapenn.
+- [MacroPad RP2040 Case](https://www.thingiverse.com/thing:4910369) by Adafruit
+- [Adafruit MacroPad Case](https://www.thingiverse.com/thing:4910369) for square keys by nlapenn.
+- [MacroPad Print-In-Place Stand](https://www.thingiverse.com/thing:4907946) by Adafruit
+- [Adafruit MacroPad Case for square keycaps](https://www.thingiverse.com/thing:4922256) by nlapenn.
+- [Adafruit MacroPad Stand](https://www.thingiverse.com/thing:4900504) by Nyghtpoison.
+- [MacroPad Bumper](https://www.thingiverse.com/thing:4926336) by jepler.
+- [MacroPad LCD Wedge](https://www.thingiverse.com/thing:4947602) by srtnate.
+- [MacroPad CAD 3Dconnexion Space Mouse](https://www.thingiverse.com/thing:4928292) by nmsr1196.
+- [Merlin Case](https://www.thingiverse.com/thing:5118991) by ktanner
+- [MacroPad RP2040 Snap Together Case](https://www.thingiverse.com/thing:4935552) by obe
+- [MacroPad Notched Stand with holder and rotary cover](https://www.thingiverse.com/thing:4907845)
 
-## Keycaps
+
+## Keycaps, Switches, and Plates
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
-- [Macropad Braille Keycaps](https://www.thingiverse.com/thing:4913712) by Adafruit
-- [Adafruit Macropad Keycaps](https://www.thingiverse.com/thing:4933949) by jepler, featuring a keycap made of a single piece that allows the LEDs to shine through.
-- [Adafruit Macropad Stand](https://www.thingiverse.com/thing:4900504) by Nyghtpoison
-- [Macropad RP2040 Snap Together Case](https://www.thingiverse.com/thing:4935552) by obe
-- [Adafruit Macropad LCD Wedge](https://www.thingiverse.com/thing:4947602) by srtnate.  
-- [3Dconnexion CAD Extension Space Mouse](https://www.thingiverse.com/thing:4928292) by nmsr1196
-- [Merlin case for Adafruit Macropad](https://www.thingiverse.com/thing:5118991) by ktanner
+- [MacroPad Braille Keycaps](https://www.thingiverse.com/thing:4913712) by Adafruit
+- [Adafruit MacroPad Keycaps](https://www.thingiverse.com/thing:4933949) by jepler, featuring a keycap made of a single piece that allows the LEDs to shine through.
+- [MacroPad switch plate](https://www.thingiverse.com/thing:4944190) by NascentMaker
+- [MacroPad Upright Stand](https://www.thingiverse.com/thing:4911282) by nms1196
+
+
 
 ## Contributing
-Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome Macropad.
+Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome MacroPad.
 
 Imposter syndrome disclaimer: I want your help. No really, I do.
 
@@ -89,7 +98,7 @@ Thank you for contributing!
 The workflow is similar to the one explained in detail here for CircuitPython: [Adafruit : Contribute to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview).
 
 ### Contribution Workflow Overview
-1. Fork [this repository](https://github.com/prcutler/awesome-macropad) on GitHub.
+1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) on GitHub.
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
 1. Fetch the remote.
