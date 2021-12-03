@@ -8,6 +8,7 @@
 > A curated list of awesome applications, macros, 3d printed cases, guides, and more for the [Adafruit CircuitPython rp2040 Macropad](https://www.adafruit.com/product/5100).
 
 ## Contents
+- [Marcopad Hardware](#marcopad-hardware)
 - [Macropad Guides](#macropad)
 - [Macros](#macros)
 - [Applications](#applications)
@@ -15,6 +16,11 @@
 - [3D Printed Cases](#3d-printed-cases)
 - [3D Printed Keycaps](#3d-printed-keycaps)
 - [Contributing](#contributing)
+
+## Macropad Hardware
+- [Macropad Hardware on Adafruit.com](https://www.adafruit.com/?q=macropad&sort=BestMatch)
+- [Stemma QT add-on boards from Adafruit ](https://www.adafruit.com/?q=stemma+qt&sort=BestMatch)
+- [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
 
 ## Macropad Guides
 - [Getting Started with the Adafruit Macropad](https://learn.adafruit.com/adafruit-macropad-rp2040) by Kattni Rembor
@@ -57,7 +63,7 @@
 - [Macropad RP2040 Case](https://www.thingiverse.com/thing:4910369) by Adafruit
 - [Adafruit Macropad Case](https://www.thingiverse.com/thing:4910369) for square keys by nlapenn.
 
-## 3d Printed and Other Keycaps
+## Keycaps
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
 - [Macropad Braille Keycaps](https://www.thingiverse.com/thing:4913712) by Adafruit
 - [Adafruit Macropad Keycaps](https://www.thingiverse.com/thing:4933949) by jepler, featuring a keycap made of a single piece that allows the LEDs to shine through.
