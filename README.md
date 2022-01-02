@@ -55,6 +55,8 @@
 - [Microsoft Teams, YouTube, Number Pad and Zoom](https://github.com/de-mon/ADA-MacroPad) by de-mon (Tested on Windows)
 - [Final Fantasy XIV](https://github.com/Radical-Dreamr/adafruit_MacroPad_ffxiv) by Radical Dreamr
 - [Generic Windows commands and KiCad](https://github.com/AlpenglowIndustries/Adafruit_MacroPad_Hotkeys) by AlpenglowIndustries
+- [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) for unlocked and unattended Windows workstations by nihilexmachina.
+- Macros including a [universal numbad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy.
 
 ## Other
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
