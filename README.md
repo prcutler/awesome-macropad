@@ -19,6 +19,7 @@
 
 ## MacroPad Hardware
 - [MacroPad Hardware on Adafruit.com](https://www.adafruit.com/?q=MacroPad&sort=BestMatch)
+- [PCB files](https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB) in EagleCAD schematic format.
 - [Stemma QT add-on boards from Adafruit ](https://www.adafruit.com/?q=stemma+qt&sort=BestMatch)
 - [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
 
