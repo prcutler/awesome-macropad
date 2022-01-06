@@ -8,7 +8,7 @@
 > A curated list of awesome applications, macros, 3d printed cases, guides, and more for the [Adafruit CircuitPython rp2040 MacroPad](https://www.adafruit.com/product/5100).
 
 ## Contents
-- [Marcopad Hardware](#marcopad-hardware)
+- [Macropad Hardware](#marcopad-hardware)
 - [MacroPad Guides](#MacroPad)
 - [Macros](#macros)
 - [Applications](#applications)
