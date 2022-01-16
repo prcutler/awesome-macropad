@@ -58,7 +58,7 @@
 - [Generic Windows commands and KiCad](https://github.com/AlpenglowIndustries/Adafruit_MacroPad_Hotkeys) by AlpenglowIndustries
 - [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) for unlocked and unattended Windows workstations by nihilexmachina.
 - Macros including a [universal numbad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy
-macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andipiper.
+- macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andipiper.
 
 ## Other
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
