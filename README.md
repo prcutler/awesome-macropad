@@ -59,6 +59,7 @@
 - [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) for unlocked and unattended Windows workstations by nihilexmachina.
 - Macros including a [universal numbad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy
 - macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andipiper.
+ - [Fusion360 macros](https://github.com/schneik80/Macropad-fusion) by schneik80.
 
 ## Other
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
@@ -125,4 +126,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last updated: January 16, 2022
+Last updated: January 19, 2022
