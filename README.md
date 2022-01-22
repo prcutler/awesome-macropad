@@ -76,7 +76,11 @@
 - [Merlin Case](https://www.thingiverse.com/thing:5118991) by ktanner
 - [MacroPad RP2040 Snap Together Case](https://www.thingiverse.com/thing:4935552) by obe
 - [MacroPad Notched Stand with holder and rotary cover](https://www.thingiverse.com/thing:4907845)
-
+-[Six degree angle Macropad case](https://www.thingiverse.com/thing:5180029) by toasto
+- [45 degree stand](https://www.thingiverse.com/thing:5209578) for the six degree case above by simonbugler
+- [Macropad Case and Stand](https://www.thingiverse.com/thing:5185595) by PaintBallGamer
+- [Macropad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
+- [High Angle Macropad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
 
 ## Keycaps, Switches, and Plates
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
@@ -84,7 +88,7 @@
 - [Adafruit MacroPad Keycaps](https://www.thingiverse.com/thing:4933949) by jepler, featuring a keycap made of a single piece that allows the LEDs to shine through.
 - [MacroPad switch plate](https://www.thingiverse.com/thing:4944190) by NascentMaker
 - [MacroPad Upright Stand](https://www.thingiverse.com/thing:4911282) by nms1196
-
+- [Nine degree stand](https://www.thingiverse.com/thing:4943775) to match Keychron keyboard angle by IcanCwhatUsay
 
 
 ## Contributing
