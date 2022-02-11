@@ -57,8 +57,8 @@
 - [Final Fantasy XIV](https://github.com/Radical-Dreamr/adafruit_MacroPad_ffxiv) by Radical Dreamr
 - [Generic Windows commands and KiCad](https://github.com/AlpenglowIndustries/Adafruit_MacroPad_Hotkeys) by AlpenglowIndustries
 - [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) for unlocked and unattended Windows workstations by nihilexmachina.
-- Macros including a [universal numbad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy
-- macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andipiper.
+- Macros including a [universal numpad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy
+- macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andypiper.
  - [Fusion360 macros](https://github.com/schneik80/Macropad-fusion) by schneik80.
 
 ## Other
