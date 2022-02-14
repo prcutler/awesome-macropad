@@ -82,6 +82,7 @@
 - [Macropad Case and Stand](https://www.thingiverse.com/thing:5185595) by PaintBallGamer
 - [Macropad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
 - [High Angle Macropad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
+- [Modular Mounting Bracket(https://www.thingiverse.com/thing:5191519) by GloryFish
 
 ## Keycaps, Switches, and Plates
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
