@@ -63,6 +63,7 @@
 
 ## Other
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
+- Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) by m-eldin
 
 ## 3D Printed Cases
 - [MacroPad RP2040 Case](https://www.thingiverse.com/thing:4910369) by Adafruit
