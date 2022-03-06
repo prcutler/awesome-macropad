@@ -43,6 +43,7 @@
 - [MacroPad-Sequencer](https://github.com/analogsketchbook/MacroPad-Sequencer) by analogsketchbook, an 8-step MIDI sequencer.
 - [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
+- [The Macropad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego.
 
 ## Games
 - [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Flucas
@@ -132,4 +133,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last updated: February 14, 2022
+Last updated: March 6th, 2022
