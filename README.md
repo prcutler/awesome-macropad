@@ -5,10 +5,10 @@
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
-> A curated list of awesome applications, macros, 3d printed cases, guides, and more for the [Adafruit CircuitPython rp2040 MacroPad](https://www.adafruit.com/product/5100).
+> A curated list of awesome applications, macros, 3D printed cases, guides, and more for the [Adafruit CircuitPython rp2040 MacroPad](https://www.adafruit.com/product/5100).
 
 ## Contents
-- [Macropad Hardware](#macropad-hardware)
+- [MacroPad Hardware](#macropad-hardware)
 - [MacroPad Guides](#MacroPad)
 - [Macros](#macros)
 - [Applications](#applications)
