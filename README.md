@@ -44,6 +44,7 @@
 - [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
 - [The Macropad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego.
+- [App Pad](https://github.com/kbaskett248/adafruit_macropad) An advanced port of Adafruit's Macropad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
 
 ## Games
 - [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Flucas
@@ -83,7 +84,7 @@
 - [Macropad Case and Stand](https://www.thingiverse.com/thing:5185595) by PaintBallGamer
 - [Macropad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
 - [High Angle Macropad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
-- [Modular Mounting Bracket(https://www.thingiverse.com/thing:5191519) by GloryFish
+- [Modular Mounting Bracket](https://www.thingiverse.com/thing:5191519) by GloryFish
 
 ## Keycaps, Switches, and Plates
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
