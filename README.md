@@ -99,6 +99,8 @@
 - [Macropad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
 - [High Angle Macropad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
 - [Modular Mounting Bracket](https://www.thingiverse.com/thing:5191519) by GloryFish
+- [MacroPad case with two extra rotary encoders and second display](https://www.thingiverse.com/thing:5413512)
+- [Hinged MacroPad Kickstand](https://learn.adafruit.com/3d-printed-stand-for-macropad-rp2040) by the Ruiz brothers at Adafruit
 
 ## Keycaps, Switches, and Plates
 
