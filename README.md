@@ -46,7 +46,6 @@
 - [MIDI Launchgrid](https://github.com/zoul0813/adafruit-launchgrid) by zoul0813
 - [Open Broadcaster Software (OBS](https://github.com/djotaku/MacroPad_rp2040_hotkeys)) by djotaku
 - [BeePad](https://github.com/trickeydan/beepad) by trickeydan
-- [App Pad](https://github.com/kbaskett248/adafruit_MacroPad) by kbaskett248 which supports keystrokes for different operating systems.
 - [MacroPad-Sequencer](https://github.com/analogsketchbook/MacroPad-Sequencer) by analogsketchbook, an 8-step MIDI sequencer.
 - [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
@@ -153,4 +152,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: July 7th, 2022
+Last Updated: July 11th, 2022
