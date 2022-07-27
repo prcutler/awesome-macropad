@@ -72,7 +72,7 @@
 - macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andypiper.
 - [Fusion360 macros](https://github.com/schneik80/Macropad-fusion) by schneik80.
 - A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy.
-
+- Macros for [macOS applications including Zoom, Chrome, VS Code, and common git commands](https://github.com/jessica-calderon/RP2040_Macros) by jessica-calderon.
 ## Other
 
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
