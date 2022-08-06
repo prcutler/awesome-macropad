@@ -38,7 +38,7 @@
 - [Ableton Live MacroPad Launcher](https://learn.adafruit.com/ableton-live-MacroPad-launcher) - by John Park
 - [Minecraft Turbopad](https://learn.adafruit.com/minecraft-turbopad) by John Park
 - [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
-- [Install KMK on an Adafruit rp2040 MacroPad](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-macropad-with-qmk) by Jeff Epler
+- [Install QMK on an Adafruit rp2040 MacroPad](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-macropad-with-qmk) by Jeff Epler
 ## Applications
 
 - [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
