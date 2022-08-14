@@ -73,6 +73,8 @@
 - [Fusion360 macros](https://github.com/schneik80/Macropad-fusion) by schneik80.
 - A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy.
 - Macros for [macOS applications including Zoom, Chrome, VS Code, and common git commands](https://github.com/jessica-calderon/RP2040_Macros) by jessica-calderon.
+- [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/CircuitPython/blob/main/Macropad/macros/win-youtube.py) by DJDevon3
+
 ## Other
 
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
@@ -152,4 +154,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: August 6th, 2022
+Last Updated: August 14th, 2022
