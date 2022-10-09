@@ -39,6 +39,7 @@
 - [Minecraft Turbopad](https://learn.adafruit.com/minecraft-turbopad) by John Park
 - [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
 - [Install QMK on an Adafruit rp2040 MacroPad](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-macropad-with-qmk) by Jeff Epler
+
 ## Applications
 
 - [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
@@ -52,6 +53,7 @@
 - [The Macropad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego.
 - [App Pad](https://github.com/kbaskett248/adafruit_macropad) An advanced port of Adafruit's Macropad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
 - [MacroPad Automation and Application Detector](https://github.com/xhargh/MacropadApplicationDetector) is a Windows application that detects the currently active window and automatically switches to the appropriate set of macros for that application by xhargh.
+- [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
 
 ## Games
 
@@ -153,4 +155,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: August 19th, 2022
+Last Updated: October 9th, 2022
