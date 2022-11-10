@@ -95,14 +95,15 @@
 - [Merlin Case](https://www.thingiverse.com/thing:5118991) by ktanner
 - [MacroPad RP2040 Snap Together Case](https://www.thingiverse.com/thing:4935552) by obe
 - [MacroPad Notched Stand with holder and rotary cover](https://www.thingiverse.com/thing:4907845)
-- [Six degree angle Macropad case](https://www.thingiverse.com/thing:5180029) by toasto
+- [Six degree angle MacroPad case](https://www.thingiverse.com/thing:5180029) by toasto
 - [45 degree stand](https://www.thingiverse.com/thing:5209578) for the six degree case above by simonbugler
-- [Macropad Case and Stand](https://www.thingiverse.com/thing:5185595) by PaintBallGamer
-- [Macropad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
+- [MacroPad Case and Stand](https://www.thingiverse.com/thing:5185595) by PaintBallGamer
+- [MacroPad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
 - [High Angle Macropad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
 - [Modular Mounting Bracket](https://www.thingiverse.com/thing:5191519) by GloryFish
 - [MacroPad case with two extra rotary encoders and second display](https://www.thingiverse.com/thing:5413512)
 - [Hinged MacroPad Kickstand](https://learn.adafruit.com/3d-printed-stand-for-macropad-rp2040) by the Ruiz brothers at Adafruit
+- [MacroPad rp2040 Stand](https://www.thingiverse.com/thing:5460682) by miekush
 
 ## Keycaps, Switches, and Plates
 
@@ -155,4 +156,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: October 9th, 2022
+Last Updated: November 10th, 2022
