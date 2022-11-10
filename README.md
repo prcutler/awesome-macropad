@@ -50,7 +50,7 @@
 - [MacroPad-Sequencer](https://github.com/analogsketchbook/MacroPad-Sequencer) by analogsketchbook, an 8-step MIDI sequencer.
 - [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
-- [The Macropad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego.
+- [The MacroPad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego.
 - [App Pad](https://github.com/kbaskett248/adafruit_macropad) An advanced port of Adafruit's Macropad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
 - [MacroPad Automation and Application Detector](https://github.com/xhargh/MacropadApplicationDetector) is a Windows application that detects the currently active window and automatically switches to the appropriate set of macros for that application by xhargh.
 - [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
@@ -147,7 +147,7 @@ If you would like to submit a pull request:
 1. Create a pull request on the official repo.
 1. Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
-It's easier than it looks!  Have questions or need help?  You can [find me on the Adafruit Discord](https://discord.com/invite/5FBsBHU) as *prcutler*.  You can also find me on Twitter as *@prcutler*  - feel free to ask me for help, I'm more than happy to help.
+It's easier than it looks!  Have questions or need help?  You can [find me on the Adafruit Discord](https://discord.com/invite/5FBsBHU) as *Paul Cutler*.  You can also find me on Twitter as *@prcutler*  - feel free to ask me for help, I'm more than happy to help.
 
 ## License & Trademarks
 
