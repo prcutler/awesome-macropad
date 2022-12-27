@@ -32,6 +32,7 @@
 
 - [Getting Started with the Adafruit MacroPad](https://learn.adafruit.com/adafruit-MacroPad-rp2040) by Kattni Rembor
 - [Programming MacroPad Hotkeys](https://learn.adafruit.com/MacroPad-hotkeys) by Phillip Burgess
+- [Disable Mass Storage so the MacroPad doesn't show up as a CIRCUITPY Drive](https://learn.adafruit.com/customizing-usb-devices-in-circuitpython/circuitpy-midi-serial#circuitpy-mass-storage-device-3096583)
 - [Using the MacroPad for 2 Factor Authentication](https://learn.adafruit.com/MacroPad-2fa-totp-authentication-friend) by Carter Nelson
 - [Dragon Drop: a CircuitPython Game for the MacroPad](https://learn.adafruit.com/dragon-drop-a-circuitpython-game-for-MacroPad) by Phillip Burgess
 - [Control Home Assistant with the MacroPad](https://learn.adafruit.com/MacroPad-remote-procedure-calls-over-usb-to-control-home-assistant) by Melissa Leblanc-Williams
@@ -156,4 +157,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: November 10th, 2022
+Last Updated: December 27, 2022
