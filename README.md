@@ -57,6 +57,7 @@
 - [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
 - [Macro Hotkeys + Extensions](https://github.com/notnavindu/adafruit-macropad-hotkeys-with-extensions) Modified version of Adafruit's [Hotkeys](https://learn.adafruit.com/macropad-hotkeys) script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu
 - [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) by christanaka
+- [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
 
 ## Games
 
@@ -159,4 +160,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: January 1, 2023
+Last Updated: January 4, 2023
