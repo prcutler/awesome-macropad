@@ -79,7 +79,7 @@
 - [Fusion360 macros](https://github.com/schneik80/Macropad-fusion) by schneik80.
 - A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy.
 - [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/CircuitPython/blob/main/Macropad/macros/win-youtube.py) by DJDevon3
-- [bettermacrosforadafruitmacropad] adds the ability to show an image when changing macros by couchpotatochip21.
+- [bettermacrosforadafruitmacropad](https://github.com/couchpotatochip21/bettermacrosforadafruitmacropad) adds the ability to show an image when changing macros by couchpotatochip21.
 
 ## Other
 
