@@ -40,6 +40,7 @@
 - [Minecraft Turbopad](https://learn.adafruit.com/minecraft-turbopad) by John Park
 - [Scrambled Number Doorlock Security Keypad](https://learn.adafruit.com/scrambled-number-security-keypad) by Anne Barela
 - [Install QMK on an Adafruit rp2040 MacroPad](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-macropad-with-qmk) by Jeff Epler
+- [Create a MIDI Controller using Arduino](https://www.hackster.io/Code_and_Make/arduino-powered-adafruit-macropad-rp2040-midi-controller-33f437) by Code_and_Make
 
 ## Applications
 
@@ -161,4 +162,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: January 11, 2023
+Last Updated: February 10, 2023
