@@ -27,6 +27,7 @@
 - [PCB files](https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB) in EagleCAD schematic format.
 - [Stemma QT add-on boards from Adafruit](https://www.adafruit.com/?q=stemma+qt&sort=BestMatch)
 - [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
+- [Black Relegendable Plastic Keycaps for MX Compatible Switches](https://www.adafruit.com/product/5662)
 
 ## MacroPad Guides
 
@@ -162,4 +163,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: February 10, 2023
+Last Updated: March 8, 2023
