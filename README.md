@@ -111,6 +111,7 @@
 - [MacroPad case with two extra rotary encoders and second display](https://www.thingiverse.com/thing:5413512)
 - [Hinged MacroPad Kickstand](https://learn.adafruit.com/3d-printed-stand-for-macropad-rp2040) by the Ruiz brothers at Adafruit
 - [MacroPad rp2040 Stand](https://www.thingiverse.com/thing:5460682) by miekush
+- [MacroPad switch plate](https://www.printables.com/model/91048-adafruit-macropad-rs2040-switch-plate)
 
 ## Keycaps, Switches, and Plates
 
