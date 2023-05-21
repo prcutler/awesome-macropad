@@ -27,6 +27,7 @@
 - [PCB files](https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB) in EagleCAD schematic format.
 - [Stemma QT add-on boards from Adafruit](https://www.adafruit.com/?q=stemma+qt&sort=BestMatch)
 - [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
+- [Black Relegendable Plastic Keycaps for MX Compatible Switches](https://www.adafruit.com/product/5662)
 
 ## MacroPad Guides
 
@@ -79,7 +80,7 @@
 - macOS macros for [Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more](https://github.com/andypiper/ada-macropad) by andypiper.
 - [Fusion360 macros](https://github.com/schneik80/Macropad-fusion) by schneik80.
 - A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) by armccoy.
-- [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/CircuitPython/blob/main/Macropad/macros/win-youtube.py) by DJDevon3
+- [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/My_Circuit_Python_Projects/blob/main/Boards/raspberrypi/Adafruit%20Macropad%20RP2040/Jons%20Macropad/macros/win-youtube.py) by DJDevon3
 - [bettermacrosforadafruitmacropad](https://github.com/couchpotatochip21/bettermacrosforadafruitmacropad) adds the ability to show an image when changing macros by couchpotatochip21.
 
 ## Other
@@ -162,4 +163,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: February 10, 2023
+Last Updated: May 21, 2023
