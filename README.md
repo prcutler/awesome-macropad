@@ -112,7 +112,8 @@
 - [MacroPad case with two extra rotary encoders and second display](https://www.thingiverse.com/thing:5413512)
 - [Hinged MacroPad Kickstand](https://learn.adafruit.com/3d-printed-stand-for-macropad-rp2040) by the Ruiz brothers at Adafruit
 - [MacroPad rp2040 Stand](https://www.thingiverse.com/thing:5460682) by miekush
-- [MacroPad switch plate](https://www.printables.com/model/91048-adafruit-macropad-rs2040-switch-plate)
+- [MacroPad switch plate](https://www.printables.com/model/91048-adafruit-macropad-rs2040-switch-plate) by NascentMaker
+- The [Key Tickler](https://www.printables.com/model/578085-key-tickler-adafruit-macropad) adds two 1x4 Stemma QT Neokeys and 3 Stemma QT rotary encoders, all enclosed in one case by jdireen
 
 ## Keycaps, Switches, and Plates
 
@@ -165,4 +166,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: August 27, 2023
+Last Updated: September 14, 2023
