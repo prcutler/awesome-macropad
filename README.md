@@ -114,7 +114,7 @@
 - [MacroPad rp2040 Stand](https://www.thingiverse.com/thing:5460682) by miekush
 - [MacroPad switch plate](https://www.printables.com/model/91048-adafruit-macropad-rs2040-switch-plate) by NascentMaker
 - The [Key Tickler](https://www.printables.com/model/578085-key-tickler-adafruit-macropad) adds two 1x4 Stemma QT Neokeys and 3 Stemma QT rotary encoders, all enclosed in one case by jdireen
-
+- [MacroPad Dock](https://www.printables.com/model/588896-macropad-dock) that also pairs with a [Stream Deck](https://www.printables.com/model/588891) by Spacejocks
 ## Keycaps, Switches, and Plates
 
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
