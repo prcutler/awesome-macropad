@@ -62,6 +62,7 @@
 - [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
 - [The MacroPad Jukebox](https://www.hackster.io/iotitlan/the-macropad-jukebox-3d2c99) by Carlos Olmos
 - [MacroPad](https://github.com/mchilli/macropad) by MCHilli, manage your macros via a [WebUI](https://mchilli.github.io/macropad/).
+- [Multiple Macropad Apps](https://github.com/ondras/macropad) by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
 
 ## Games
 
