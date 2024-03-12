@@ -88,7 +88,8 @@
 - [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/My_Circuit_Python_Projects/blob/main/Boards/raspberrypi/Adafruit%20Macropad%20RP2040/Jons%20Macropad/macros/win-youtube.py) by DJDevon3
 - [bettermacrosforadafruitmacropad](https://github.com/couchpotatochip21/bettermacrosforadafruitmacropad) adds the ability to show an image when changing macros by couchpotatochip21.
 - [Simple macro profile for Kicad](https://github.com/corndog2000/RP2040-MACROPAD-KICAD) designed to keep one hand on the macropad and your other hand on your mouse when in the PCB editor.
-
+- [Helldivers 2 Stratagem macros](https://adafruit-playground.com/u/squid_jpg/pages/easy-helldivers-ii-stratagem-macros-for-rp2040-macropad) by squid_jpg
+- 
 ## Other
 
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
@@ -173,4 +174,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: January 26, 2024
+Last Updated: March 12, 2024
