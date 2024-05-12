@@ -89,12 +89,14 @@
 - [bettermacrosforadafruitmacropad](https://github.com/couchpotatochip21/bettermacrosforadafruitmacropad) adds the ability to show an image when changing macros by couchpotatochip21.
 - [Simple macro profile for Kicad](https://github.com/corndog2000/RP2040-MACROPAD-KICAD) designed to keep one hand on the macropad and your other hand on your mouse when in the PCB editor.
 - [Helldivers 2 Stratagem macros](https://adafruit-playground.com/u/squid_jpg/pages/easy-helldivers-ii-stratagem-macros-for-rp2040-macropad) by squid_jpg
-- 
+- A [collection of macros for Windows and Linux by nylar357](https://github.com/nylar357/macropad_custom) including GitHub, Firefox, Sleep, Twitter, Vim, and more.
+
 ## Other
 
 - [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) by mp-extras
 - Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) by m-eldin
 - [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) by rossmoody
+- [Fruity Menu](https://github.com/greatest-gatsby/fruity_menu) is a library for building simple UI menus for CircuitPython powered devices, including the rp2040 MacroPad.
 
 ## 3D Printed Cases
 
