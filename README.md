@@ -28,6 +28,7 @@
 - [Stemma QT add-on boards from Adafruit](https://www.adafruit.com/?q=stemma+qt&sort=BestMatch)
 - [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
 - [Black Relegendable Plastic Keycaps for MX Compatible Switches](https://www.adafruit.com/product/5662)
+- [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
 
 ## MacroPad Guides
 
@@ -59,12 +60,12 @@
 - [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
 - [Macro Hotkeys + Extensions](https://github.com/notnavindu/adafruit-macropad-hotkeys-with-extensions) Modified version of Adafruit's [Hotkeys](https://learn.adafruit.com/macropad-hotkeys) script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu
 - [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) by christanaka
-- [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
 - [The MacroPad Jukebox](https://www.hackster.io/iotitlan/the-macropad-jukebox-3d2c99) by Carlos Olmos
 - [MacroPad](https://github.com/mchilli/macropad) by MCHilli, manage your macros via a [WebUI](https://mchilli.github.io/macropad/).
 - [Multiple Macropad Apps](https://github.com/ondras/macropad) by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
 - [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) by MCHilli
 - [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) by haugenmitch
+- [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth), a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) by obtusecanadiangoose
 
 ## Games
 
