@@ -67,6 +67,7 @@
 - [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) by haugenmitch
 - [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth), a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) by obtusecanadiangoose
 - A [CHIP-8 emulator](https://github.com/cubbagesj/macropad_CHIP8) for the Adafruit MacroPad by cubbagesj
+- The [T9 Predictive MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main) is available for a number of boards, [including the Adafruit MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main/fw) by Guy Dupont.
 
 ## Games
 
@@ -178,4 +179,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: August 6, 2024
+Last Updated: September 25, 2024
