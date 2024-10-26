@@ -1,4 +1,4 @@
-# Adafruit Community Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 
@@ -62,20 +62,15 @@ inappropriate, threatening, offensive, or harmful.
 
 ## Moderation
 
-Instances of behaviors that violate the Adafruit Community Code of Conduct
+Instances of behaviors that violate the Community Code of Conduct
 may be reported by any member of the community. Community members are
 encouraged to report these situations, including situations they witness
 involving other community members.
 
 You may report in the following ways:
 
-In any situation, you may send an email to <support@adafruit.com>.
-
-On the Adafruit Discord, you may send an open message from any channel
-to all Community Helpers by tagging @community helpers. You may also send an
-open message from any channel, or a direct message to @kattni#1507,
-@tannewt#4653, @Dan Halbert#1614, @cater#2442, @sommersoft#0222, or
-@Andon#8175.
+In any situation, you may send an email to <paul@paulcutler.org>.  You may 
+also contact Paul Cutler on the Adafruit Discord.
 
 Email and direct message reports will be kept confidential.
 
@@ -86,8 +81,7 @@ you should also report the message directly to Discord.
 These are the steps for upholding our community’s standards of conduct.
 
 1. Any member of the community may report any situation that violates the
-Adafruit Community Code of Conduct. All reports will be reviewed and
-investigated.
+Community Code of Conduct. All reports will be reviewed and investigated.
 2. If the behavior is an egregious violation, the community member who
 committed the violation may be banned immediately, without warning.
 3. Otherwise, moderators will first respond to such behavior with a warning.
@@ -101,13 +95,6 @@ banned.
 
 ## Scope
 
-This Code of Conduct and the enforcement policies listed above apply to all
-Adafruit Community venues. This includes but is not limited to any community
-spaces (both public and private), the entire Adafruit Discord server, and
-Adafruit GitHub repositories. Examples of Adafruit Community spaces include
-but are not limited to meet-ups, audio chats on the Adafruit Discord, or
-interaction at a conference.
-
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. As a community
 member, you are representing our community, and are expected to behave
@@ -117,11 +104,5 @@ accordingly.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 1.4, available at
-<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
+<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>, the Adafruit Code of Conduct,
 and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
-
-For other projects adopting the Adafruit Community Code of
-Conduct, please contact the maintainers of those projects for enforcement.
-If you wish to use this code of conduct for your own project, consider
-explicitly mentioning your moderation policy or making a copy with your
-own moderation policy so as to avoid confusion.
