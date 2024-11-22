@@ -68,6 +68,7 @@
 - [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth), a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) by obtusecanadiangoose
 - A [CHIP-8 emulator](https://github.com/cubbagesj/macropad_CHIP8) for the Adafruit MacroPad by cubbagesj
 - The [T9 Predictive MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main) is available for a number of boards, [including the Adafruit MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main/fw) by Guy Dupont.
+- Send MIDI commands to a loop pedal using the Adafruit MacroPad with [MIDILooper](https://github.com/dxinteractive/macropad-midilooper) by dxinteractive.
 
 ## Games
 
@@ -100,6 +101,7 @@
 - Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) by m-eldin
 - [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) by rossmoody
 - [Fruity Menu](https://github.com/greatest-gatsby/fruity_menu) is a library for building simple UI menus for CircuitPython powered devices, including the rp2040 MacroPad.
+- [Mgogo](https://github.com/calbert1209/mgogo) is a library to convert Adafruit Macropad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
 
 ## 3D Printed Cases
 
@@ -179,4 +181,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: September 25, 2024
+Last Updated: November 22, 2024
