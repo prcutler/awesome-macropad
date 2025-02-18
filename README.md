@@ -55,14 +55,14 @@
 - [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 - [BuildPad](https://github.com/willgorman/buildpad) by willgorman, a build automation tool for viewing and launching Jenkins jobs.
 - [The MacroPad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego. [Demonstration Video](https://www.youtube.com/watch?v=Ifc-n-RV3Ag)
-- [App Pad](https://github.com/kbaskett248/adafruit_macropad) An advanced port of Adafruit's Macropad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
+- [App Pad](https://github.com/kbaskett248/adafruit_macropad) An advanced port of Adafruit's MarcoPad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
 - [MacroPad Automation and Application Detector](https://github.com/xhargh/MacropadApplicationDetector) is a Windows application that detects the currently active window and automatically switches to the appropriate set of macros for that application by xhargh.
 - [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
 - [Macro Hotkeys + Extensions](https://github.com/notnavindu/adafruit-macropad-hotkeys-with-extensions) Modified version of Adafruit's [Hotkeys](https://learn.adafruit.com/macropad-hotkeys) script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu
 - [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) by christanaka
 - [The MacroPad Jukebox](https://www.hackster.io/iotitlan/the-macropad-jukebox-3d2c99) by Carlos Olmos
 - [MacroPad](https://github.com/mchilli/macropad) by MCHilli, manage your macros via a [WebUI](https://mchilli.github.io/macropad/).
-- [Multiple Macropad Apps](https://github.com/ondras/macropad) by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
+- [Multiple MarcoPad Apps](https://github.com/ondras/macropad) by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
 - [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) by MCHilli
 - [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) by haugenmitch
 - [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth), a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) by obtusecanadiangoose
@@ -102,7 +102,7 @@
 - Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) by m-eldin
 - [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) by rossmoody
 - [Fruity Menu](https://github.com/greatest-gatsby/fruity_menu) is a library for building simple UI menus for CircuitPython powered devices, including the rp2040 MacroPad.
-- [Mgogo](https://github.com/calbert1209/mgogo) is a library to convert Adafruit Macropad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
+- [Mgogo](https://github.com/calbert1209/mgogo) is a library to convert Adafruit MarcoPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
 
 ## 3D Printed Cases
 
@@ -121,7 +121,7 @@
 - [45 degree stand](https://www.thingiverse.com/thing:5209578) for the six degree case above by simonbugler
 - [MacroPad Case and Stand](https://www.thingiverse.com/thing:5185595) by PaintBallGamer
 - [MacroPad Notched Stand, Holder and Rotary Cover](https://www.thingiverse.com/thing:4907845) by nmsr1196
-- [High Angle Macropad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
+- [High Angle MarcoPad Stand](https://www.thingiverse.com/thing:4911282) by nmsr1196
 - [Modular Mounting Bracket](https://www.thingiverse.com/thing:5191519) by GloryFish
 - [MacroPad case with two extra rotary encoders and second display](https://www.thingiverse.com/thing:5413512)
 - [Hinged MacroPad Kickstand](https://learn.adafruit.com/3d-printed-stand-for-macropad-rp2040) by the Ruiz brothers at Adafruit
