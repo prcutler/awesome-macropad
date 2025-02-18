@@ -61,7 +61,6 @@
 - [Macro Hotkeys + Extensions](https://github.com/notnavindu/adafruit-macropad-hotkeys-with-extensions) Modified version of Adafruit's [Hotkeys](https://learn.adafruit.com/macropad-hotkeys) script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu
 - [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) by christanaka
 - [The MacroPad Jukebox](https://www.hackster.io/iotitlan/the-macropad-jukebox-3d2c99) by Carlos Olmos
-- [MacroPad](https://github.com/mchilli/macropad) by MCHilli, manage your macros via a [WebUI](https://mchilli.github.io/macropad/).
 - [Multiple MarcoPad Apps](https://github.com/ondras/macropad) by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
 - [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) by MCHilli
 - [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) by haugenmitch
