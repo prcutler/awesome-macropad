@@ -69,6 +69,7 @@
 - A [CHIP-8 emulator](https://github.com/cubbagesj/macropad_CHIP8) for the Adafruit MacroPad by cubbagesj
 - The [T9 Predictive MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main) is available for a number of boards, [including the Adafruit MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main/fw) by Guy Dupont.
 - Send MIDI commands to a loop pedal using the Adafruit MacroPad with [MIDILooper](https://github.com/dxinteractive/macropad-midilooper) by dxinteractive.
+- [Media hub and control with optional Bluetooth](https://adafruit-playground.com/u/Alain_ManHW/pages/media-hub-media-control-w-opt-bluetooth) by Alain_ManHW
 
 ## Games
 
@@ -130,6 +131,7 @@
 - [MacroPad Dock](https://www.printables.com/model/588896-macropad-dock) that also pairs with a [Stream Deck](https://www.printables.com/model/588891) by Spacejocks
 - [Custom MacroPad Stand](https://www.printables.com/model/711899-adafruit-macropad-custom-stand) by carlos105420
 - [MacroPad Travel Lid and Stand](https://www.printables.com/model/612936-adafruit-macropad-rp2040-travel-lid-and-stand) by LALAG
+
 ## Keycaps, Switches, and Plates
 
 - [CNC Milling Keycaps](https://www.thingiverse.com/thing:4941235) by Adafruit
