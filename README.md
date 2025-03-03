@@ -29,6 +29,7 @@
 - [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps&sort=BestMatch)
 - [Black Relegendable Plastic Keycaps for MX Compatible Switches](https://www.adafruit.com/product/5662)
 - [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
+- [Replacement OLED Display](https://www.adafruit.com/product/5228) - in case you get screen burn-in, the display can be replaced.
 
 ## MacroPad Guides
 
@@ -182,4 +183,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: February 18, 2025
+Last Updated: March 3, 2025
