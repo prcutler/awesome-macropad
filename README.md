@@ -131,6 +131,8 @@
 - [MacroPad Dock](https://www.printables.com/model/588896-macropad-dock) that also pairs with a [Stream Deck](https://www.printables.com/model/588891) by Spacejocks
 - [Custom MacroPad Stand](https://www.printables.com/model/711899-adafruit-macropad-custom-stand) by carlos105420
 - [MacroPad Travel Lid and Stand](https://www.printables.com/model/612936-adafruit-macropad-rp2040-travel-lid-and-stand) by LALAG
+- [Macropad custom stand](https://www.printables.com/model/711899-adafruit-macropad-custom-stand/comments) by Vash
+- [Angled Stand](https://www.printables.com/model/920611-angled-stand-for-adafruit-macropad-case) by Splemsby
 
 ## Keycaps, Switches, and Plates
 
@@ -183,4 +185,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: March 3, 2025
+Last Updated: March 19, 2025
