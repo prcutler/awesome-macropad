@@ -70,6 +70,7 @@
 - The [T9 Predictive MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main) is available for a number of boards, [including the Adafruit MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main/fw) by Guy Dupont.
 - Send MIDI commands to a loop pedal using the Adafruit MacroPad with [MIDILooper](https://github.com/dxinteractive/macropad-midilooper) by dxinteractive.
 - [Media hub and control with optional Bluetooth](https://adafruit-playground.com/u/Alain_ManHW/pages/media-hub-media-control-w-opt-bluetooth) by Alain_ManHW
+- [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
 
 ## Games
 
