@@ -6,13 +6,10 @@
 
 > A curated list of awesome applications, macros, 3D printed cases, guides, and more for the [Adafruit CircuitPython rp2040 MacroPad](https://www.adafruit.com/product/5100).
 
-## MacroPad Hotkeys II
-
-Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) and [Hackster.io project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
-
 ## Contents
 
 - [Contents](#contents)
+- [MacroPad Hotkeys II](#macropad-hotkeys-ii)
 - [MacroPad Hardware](#macropad-hardware)
 - [MacroPad Guides](#macropad-guides)
 - [Applications](#applications)
@@ -24,6 +21,10 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Contributing](#contributing)
   - [Contribution Workflow Overview](#contribution-workflow-overview)
 - [License & Trademarks](#license--trademarks)
+
+## MacroPad Hotkeys II
+
+Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) and [Hackster.io project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
 
 ## MacroPad Hardware
 
@@ -105,7 +106,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Simple macro profile for Kicad](https://github.com/corndog2000/RP2040-MACROPAD-KICAD) designed to keep one hand on the macropad and your other hand on your mouse when in the PCB editor.
 - [Helldivers 2 Stratagem macros](https://adafruit-playground.com/u/squid_jpg/pages/easy-helldivers-ii-stratagem-macros-for-rp2040-macropad) by squid_jpg
 - A [collection of macros for Windows and Linux by nylar357](https://github.com/nylar357/macropad_custom) including GitHub, Firefox, Sleep, Twitter, Vim, and more.
-- [Macros by Ondra](https://github.com/ondras/macropad) for git workflows, DaVinci Resolve color grading, playing MIDI chords, and the game Elite: Dangerous by. 
+- [Macros by Ondra](https://github.com/ondras/macropad) for git workflows, DaVinci Resolve color grading, playing MIDI chords, and the game Elite: Dangerous. 
 
 ## Other
 
