@@ -6,6 +6,10 @@
 
 > A curated list of awesome applications, macros, 3D printed cases, guides, and more for the [Adafruit CircuitPython rp2040 MacroPad](https://www.adafruit.com/product/5100).
 
+## MacroPad Hotkeys II
+
+Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) and [Hackster.io project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
+
 ## Contents
 
 - [Contents](#contents)
@@ -186,4 +190,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: July 29, 2025
+Last Updated: December 26, 2025
