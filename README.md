@@ -49,6 +49,11 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Install QMK on an Adafruit rp2040 MacroPad](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-macropad-with-qmk) by Jeff Epler
 - [Create a MIDI Controller using Arduino](https://www.hackster.io/Code_and_Make/arduino-powered-adafruit-macropad-rp2040-midi-controller-33f437) by Code_and_Make
 
+## Configuration Utilities
+
+- [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) by MCHilli
+- [MacroPad Configurator by AlexanderPotashko](https://github.com/AlexanderPotashko/macropad-configurator) is a Windows application to configure your MacroPad. It can audo-detect your Macropad, manage multiple profiles, includes a visual editor and keyboard, includes 12 pre-configured macro templates, and more.
+
 ## Applications
 
 - [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
@@ -67,7 +72,6 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) by christanaka
 - [The MacroPad Jukebox](https://www.hackster.io/iotitlan/the-macropad-jukebox-3d2c99) by Carlos Olmos
 - [Multiple MarcoPad Apps](https://github.com/ondras/macropad) by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
-- [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) by MCHilli
 - [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) by haugenmitch
 - [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth), a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) by obtusecanadiangoose
 - A [CHIP-8 emulator](https://github.com/cubbagesj/macropad_CHIP8) for the Adafruit MacroPad by cubbagesj
@@ -76,6 +80,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Media hub and control with optional Bluetooth](https://adafruit-playground.com/u/Alain_ManHW/pages/media-hub-media-control-w-opt-bluetooth) by Alain_ManHW
 - [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
 - [cloudfx by Wchesher](https://github.com/wchesher/cloudfx) turns two Adafruit devices into a sound effect and macro controller system, such as a MacroPad and FunHouse.
+
 ## Games
 
 - [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Flucas
