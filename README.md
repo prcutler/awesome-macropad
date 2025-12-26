@@ -100,6 +100,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Simple macro profile for Kicad](https://github.com/corndog2000/RP2040-MACROPAD-KICAD) designed to keep one hand on the macropad and your other hand on your mouse when in the PCB editor.
 - [Helldivers 2 Stratagem macros](https://adafruit-playground.com/u/squid_jpg/pages/easy-helldivers-ii-stratagem-macros-for-rp2040-macropad) by squid_jpg
 - A [collection of macros for Windows and Linux by nylar357](https://github.com/nylar357/macropad_custom) including GitHub, Firefox, Sleep, Twitter, Vim, and more.
+- [Macros by Ondra](https://github.com/ondras/macropad) for git workflows, DaVinci Resolve color grading, playing MIDI chords, and the game Elite: Dangerous by. 
 
 ## Other
 
