@@ -75,7 +75,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - Send MIDI commands to a loop pedal using the Adafruit MacroPad with [MIDILooper](https://github.com/dxinteractive/macropad-midilooper) by dxinteractive.
 - [Media hub and control with optional Bluetooth](https://adafruit-playground.com/u/Alain_ManHW/pages/media-hub-media-control-w-opt-bluetooth) by Alain_ManHW
 - [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
-
+- [cloudfx by Wchesher](https://github.com/wchesher/cloudfx) turns two Adafruit devices into a sound effect and macro controller system, such as a MacroPad and FunHouse.
 ## Games
 
 - [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Flucas
