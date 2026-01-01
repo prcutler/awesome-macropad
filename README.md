@@ -88,6 +88,8 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Tic-Tac-Toe](https://github.com/robotastic/MacroPad-tic-tac-toe) by robotastic
 - [Game of Life](https://github.com/stelly-dev/game_of_life_adafruit_MacroPad) by stelly-dev
 - [BrainMAX](https://github.com/omixen/MacroPad-math-game) by omixen, a math game.
+- [MacroPadGames by messerjon] are a collection of 11 mini-games for the Adafruit MacroPad. Games include Simon Says, Whack-a-Mole, 
+Reaction, Piano, and more.
 
 ## Macros
 
@@ -197,4 +199,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: December 26, 2025
+Last Updated: January 1, 2026
