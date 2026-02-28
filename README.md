@@ -84,7 +84,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 ## Games
 
-- [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Flucas
+- [Macro Whack](https://github.com/coryflucas/macro-whack), a whack-a-mole style game for the MacroPad) by Cory Lucas
 - [Tic-Tac-Toe](https://github.com/robotastic/MacroPad-tic-tac-toe) by robotastic
 - [Game of Life](https://github.com/stelly-dev/game_of_life_adafruit_MacroPad) by stelly-dev
 - [BrainMAX](https://github.com/omixen/MacroPad-math-game) by omixen, a math game.
