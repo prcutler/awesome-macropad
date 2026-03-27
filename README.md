@@ -117,7 +117,7 @@ Reaction, Piano, and more.
 - Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) by m-eldin
 - [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) by rossmoody
 - [Fruity Menu](https://github.com/greatest-gatsby/fruity_menu) is a library for building simple UI menus for CircuitPython powered devices, including the rp2040 MacroPad.
-- [Mgogo](https://github.com/calbert1209/mgogo) is a library to convert Adafruit MarcoPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
+- [Mgogo](https://github.com/calbert1209/mgogo) is a library to convert Adafruit MacroPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
 
 ## 3D Printed Cases
 
