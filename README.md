@@ -81,6 +81,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [Media hub and control with optional Bluetooth](https://adafruit-playground.com/u/Alain_ManHW/pages/media-hub-media-control-w-opt-bluetooth) by Alain_ManHW
 - [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
 - [cloudfx by Wchesher](https://github.com/wchesher/cloudfx) turns two Adafruit devices into a sound effect and macro controller system, such as a MacroPad and FunHouse.
+- [homebridge-macropad](https://github.com/maximkulkin/homebridge-macropad) by maximkulkin is a Homebridge plugin to integrate an Adafruit rp2040 MacroPad into HomeKit using TypeScript.
 
 ## Games
 
@@ -199,4 +200,4 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Last Updated: January 1, 2026
+Last Updated: March 27, 2026
