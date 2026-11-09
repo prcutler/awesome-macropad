@@ -56,6 +56,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 - [MacroPad Configurator by AlexanderPotashko](https://github.com/AlexanderPotashko/macropad-configurator) is a Windows application to configure your MacroPad. It can audo-detect your Macropad, manage multiple profiles, includes a visual editor and keyboard, includes 12 pre-configured macro templates, and more.
 
 ## Applications
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Desktop Now Playing visualizer for macOS.
 
 - [METAR Display and airport status](https://github.com/flyinactor91/metarpad) by flyinactor91
 - [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) by funkfinger
